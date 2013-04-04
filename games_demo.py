@@ -11,7 +11,7 @@ import sympathy_game
 
 ########################################################
 #                                                           
-# Example 1: Prisoner's Dilema, calculate pure Nash Eq      
+# Example 1: Prisoner's Dilemma, calculate pure Nash Eq      
 #                                                           
 ########################################################
 print "------------------------------------------------"
